@@ -363,4 +363,4 @@ I followed the tutorial online
 * Leticia Ulloa
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
-* Andrea Possenti -- andrea.possenti@gmail.com -- pietramarrone
+* Andrea Possenti -- pietramarrone
